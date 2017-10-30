@@ -10,4 +10,4 @@ Sou apaixonado por Geografia da Saúde, Saúde Coletiva e Ciência de Dados e es
 
 ### Entre em contato!
 
-[mailto:raphael.saldanha@icict.fiocruz.br](raphael.saldanha@icict.fiocruz.br)
+[raphael.saldanha@icict.fiocruz.br](mailto:raphael.saldanha@icict.fiocruz.br)
