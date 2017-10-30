@@ -1,15 +1,13 @@
 ---
 layout: page
-title: About
+title: Sobre
 permalink: /about/
 ---
 
-Some information about you!
+Natural de Nova Friburgo - RJ, tenho graduação em Geografia, especialização em Métodos Estatísticos Computacionais e mestrado em Saúde Coletiva. Moro no Rio de Janeiro e estou cursando doutorado na Fiocruz, na área de Informação e Comunicação em Saúde.
 
-### More Information
+Sou apaixonado por Geografia da Saúde, Saúde Coletiva e Ciência de Dados e estou me dedicando a área de visualização de dados em saúde 🙂
 
-A place to include any other types of information that you'd like to include about yourself.
+### Entre em contato!
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[raphael.saldanha@icict.fiocruz.br](raphael.saldanha@icict.fiocruz.br)
