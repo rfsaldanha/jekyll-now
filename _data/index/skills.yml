@@ -2,5 +2,5 @@
 
 label: Habilidade
 id : cs
-aspects: R, PHP, Javascript, Elastic Search, Plotly, Kibana
-percentage: 100, 80, 70, 50, 80, 50
+aspects: R Project, Shiny, PHP, Plotly, Elastic Search, Kibana
+percentage: 100, 90, 70, 80, 50, 50
