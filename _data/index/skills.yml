@@ -4,3 +4,6 @@ label: Habilidade
 id : cs
 aspects: R Project, Shiny, PHP, Plotly, Elastic Search, Kibana
 percentage: 100, 90, 70, 80, 50, 50
+
+aspects: Saúde Coletiva, Geografia, Epidemiologia, Ciência de Dados, Estatística, Visualização
+percentage: 100, 90, 70, 80, 80, 90
