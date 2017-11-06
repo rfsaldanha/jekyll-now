@@ -8,6 +8,8 @@ comments: true
 
 Um dos temas que pretendo abordr neste blog é "data storytelling". Em uma tradução simples, seria algo como "contar uma história através de dados". Este é o primeiro de uma série de posts que pretendo fazer.
 
+<!--more-->
+
 Vou começar falando sobre o que não é ;-) Data storytelling não é mostrar um gráfico e dizer: "agora vou te contar a história destes dados e o que eles dizem". Esta abordagem é marcada pela presença de uma *narrativa* na apresentação gráfica dos dados.
 
 ![Mapa de Minard](https://upload.wikimedia.org/wikipedia/commons/2/29/Minard.png)
