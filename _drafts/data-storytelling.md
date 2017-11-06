@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Data storytelling
+categories: [data storytelling]
+tags: [data storytelling, minard]
+comments: true
 ---
 
 Um dos temas que pretendo abordr neste blog é "data storytelling". Em uma tradução simples, seria algo como "contar uma história através de dados". Este é o primeiro de uma série de posts que pretendo fazer.
