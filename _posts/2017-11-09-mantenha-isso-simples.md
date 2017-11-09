@@ -12,6 +12,8 @@ Para inaugurar, começo com um lema:
 
 Ao trabalhar com visualização de dados, por vezes não percebemos nossa tendência em complicar. Com a facilidade de uso dos softwares, tornou-se relativamente simples criar visualizações cheias de recursos, cores, botões... mas isso tudo é realmente necessário?
 
+<!--more>
+
 Após o deslumbre das ferramentas, tenho realizado um caminho inverso, tentando isolar a mensagem das visualizações de possíveis ruídos. O que esta escala de cores significa? Qual informação esses símbolos representam? Estas são perguntas recorrentes.
 
 Nesta semana, tive contato com dois extremos que ilustram bem essa situação.
