@@ -20,7 +20,7 @@ Nesta semana, tive contato com dois extremos que ilustram bem essa situação.
 
 ## Data Observatory, Imperial College of Science
 
-![Data Observatory](img/london_school_viz.jpg)
+![Data Observatory](/img/london_school_viz.jpg)
 
 No Instituto de Ciência de Dados do Imperial College, foi criado um laboratório de visualização de dados, dotado de uma sala de visualização com 64 telas. Eles estão continuamente a procura de problemas que precisem de um estrutura como esta, segundo Dan  McGinn em entrevista ao [podcast Data Stories](http://datastori.es/107-visualizing-bitcoin-with-dan-mcginn/), como a movimentação de bitCoins.
 
