@@ -12,7 +12,7 @@ No recesso de fim de ano aproveitei para colocar algumas leituras em dia. O prim
 
 <!--more-->
 
-Tive acesso a edição em inglês, mas existe uma edição em português da ![Alta Books](http://www.altabooks.com.br/storytelling-com-dados-um-guia-sobre-visualizacao-de-dados-para-profissionais-de-negocio.html). Em geral, dou preferência em ler a versão em inglês dos livros para praticar a língua e não ter perdas por conta da tradução. Um problema: a edição em português é monocromática, opção complicada para um livro sobre visualização de dados.
+Tive acesso a edição em inglês, mas existe uma edição em português da [Alta Books](http://www.altabooks.com.br/storytelling-com-dados-um-guia-sobre-visualizacao-de-dados-para-profissionais-de-negocio.html). Em geral, dou preferência em ler a versão em inglês dos livros para praticar a língua e não ter perdas por conta da tradução. Um problema: a edição em português é monocromática, opção complicada para um livro sobre visualização de dados.
 
 A escrita da Cole é muito acessível, poucos jargões técnicos, tudo muito bem explicado. A abordagem dela sobre o assunto é bem prática, com exemplos reais. Existem livros mais teóricos sobre visualização de dados que podem complementá-lo, mas a abordagem prática dos capítulos dá ao leitor uma noção rápida e clara sobre o campo.
 
