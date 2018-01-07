@@ -21,7 +21,7 @@ O livro é rico em exemplos de antes-e-depois e apresenta a criação de visuali
 Uma dica legal do livro: para qualquer visualização de dados, pergunte:
 * Quem? Tenha uma ideia clara de qual será a audiência.
 * O que? A mensagem que a visualização deve propor.
-* Como? Sabendo para quem e o que será comunicado com os dados, aí sim pode-se começar a planejar como essa estória será contada, qual suporte gráfico será usado.
+* Como? Sabendo para quem e o que será comunicado com os dados, aí sim pode-se começar a planejar como essa estória será contada, e decidir sobre qual suporte gráfico será usado.
 
 Recomendo muito este livro!
 
