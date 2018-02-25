@@ -46,7 +46,17 @@ Uma outra forma de visualização de redes é o gráfico de arcos. Considero ele
 
 ## Para saber mais
 
-Gosto muito desses livros e artigos:
+Livros e artigos:
   * Wasserman e Faust. [Social Network Analysis](https://books.google.com.br/books?id=CAm2DpIqRUIC&lpg=PP1&hl=pt-BR&pg=PP1#v=onepage&q&f=false)
   * Barabási. [Network science](http://networksciencebook.com)
-  * Luke e Harris. (Network analysis in public health: history, methods, and applications)[http://www.ncbi.nlm.nih.gov/pubmed/17222078]
+  * Luke e Harris. [Network analysis in public health: history, methods, and applications](http://www.ncbi.nlm.nih.gov/pubmed/17222078)
+  
+Softwares:
+  * R e pacote [igraph](http://igraph.org/r/)
+  * Pacote que usei para fazer o diagrama de arco no R: [arcdiagram](https://github.com/gastonstat/arcdiagram)
+  * [Gephi](http://igraph.org/r/)
+
+Softwares que ainda não usei:
+  * [UCINET](https://github.com/gastonstat/arcdiagram)
+  * [Pajek](http://mrvar.fdv.uni-lj.si/pajek/)
+  * [SocNetV](http://socnetv.org)
