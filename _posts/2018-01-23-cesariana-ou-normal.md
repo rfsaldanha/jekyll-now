@@ -14,6 +14,6 @@ Depois do desafio, resolvi expandir o gráfico para um painel, mostrando o efeit
 
 ![Data Observatory](/img/partos_normais_cesarianas.png)
 
-A época entre Natal e Ano novo é a mais interessante! Parece estar associada a uma grande queda no número de partos por cesariana, mas 9 mêses depois... temos um pico de nascimentos por volta de setembro ;-)
+A época entre Natal e Ano novo é a mais interessante! Parece estar associada a uma grande queda no número de partos por cesariana, mas 9 meses depois... temos um pico de nascimentos por volta de setembro ;-)
 
 Sobre o menor número de cesarianas nos finais de semana, na minha opinião isto parece estar mais associado a disponibilidade dos médicos do que a preferência das mães. Alguém conhece uma pesquisa sobre isso?
