@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Copernicus Hackaton sobre seca e saúde no semiárido brasileiro
+title: Copernicus Hackaton - seca e saúde no semiárido brasileiro
 categories: [evento]
 tags: [hackathon]
 comments: true
 ---
 
-Tive a oportunidade de representar a Fiocruz no Copernicus Hackaton, dentro da conferência G-STIC, em Bruxelas.
+Tive a oportunidade de representar a Fundação Oswaldo Cruz (Fiocruz) no Copernicus Hackaton, dentro da The Global Sustainable Technology & Innovation Conferenre (G-STIC)), em Bruxelas, Bélgica, nos dias 20 e 21 de novembro de 2019.
 
 <!--more-->
 
