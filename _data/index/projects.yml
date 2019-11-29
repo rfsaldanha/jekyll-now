@@ -1,6 +1,6 @@
 - name: Cidade & Saúde
   descr: "Visualização amigável de indicadores demográficos e de saúde para municípios brasileiros, agregando diversas fontes de informação em um só lugar."
-  website: http://cidadesaude.io
+  website: https://cidadesaude.io
   
 - name: Malária Transfronteiriça, Brasil - Guiana Francesa
   descr: "Projeto em parceria com a Fiocruz e IRD (França) para monitoramento epidemiológico de casos de malária na região da fronteira entre Brasil e Guiana Francesa. Harmonização de dados advindos de países e sistemas diferentes e construção de um painel de visualização de dados trilíngue em R Shiny. O site do projeto será lançado em breve!"
@@ -24,16 +24,20 @@
   descr: "Projeto da Fiocruz para acompanhamento da rede de deslocamentos de pacientes para tratamento oncológico no Brasil. Aplicação da metodologia de Análise de Redes para analisar a acessibilidade aos serviços de saúde."
   website: https://bigdata.icict.fiocruz.br/redes-de-cuidado
   
-- name: microdatasus
-  descr: "Pacote R para download e pré-processamento de microdados do DataSUS. O pacote permite o download direto para o R de dados de diversos Sistemas de Informação de Saúde do DataSUS, criando um data.frame pronto para uso. Além do download, o pacote tem algumas funções para pré-processamento dos dados, rotulando os campos categóricos e acrescentando informações sobre os municípios."
-  website: github.com/rfsaldanha/microdatasus
+- name: Acessibilidade Geográfica a Serviços de Saúde no Brasil
+  descr: "Projeto da Fiocruz para analisar a acessibilidade geográfica a serviços de saúde no Brasil em sua diversidade e desigualdade, caracterizando vazios assistenciais de vários tipos, além de abordar as repercussões para o planejamento em saúde."
+  website: https://bigdata.icict.fiocruz.br/acessibilidade-geografica-servicos-de-saude-no-brasil
   
 - name: microdatasus
   descr: "Pacote R para download e pré-processamento de microdados do DataSUS. O pacote permite o download direto para o R de dados de diversos Sistemas de Informação de Saúde do DataSUS, criando um data.frame pronto para uso. Além do download, o pacote tem algumas funções para pré-processamento dos dados, rotulando os campos categóricos e acrescentando informações sobre os municípios."
-  website: github.com/rfsaldanha/microdatasus
+  website: https://github.com/rfsaldanha/microdatasus
+  
+- name: microdatasus
+  descr: "Pacote R para download e pré-processamento de microdados do DataSUS. O pacote permite o download direto para o R de dados de diversos Sistemas de Informação de Saúde do DataSUS, criando um data.frame pronto para uso. Além do download, o pacote tem algumas funções para pré-processamento dos dados, rotulando os campos categóricos e acrescentando informações sobre os municípios."
+  website: https://github.com/rfsaldanha/microdatasus
   
 - name: tobler
   descr: "Aplicativo web para econometria espacial, desenvolvido em parceria com a Universidade Federal de Juiz de Fora. Criado em R Shiny, o aplicativo permite o upload de dados ecometricos espaciais para Análise Exploratória de Dados Espacial (AEDE), cálculo de autocorrelações espaciais (Moran's I, Geary's C entre outros) e a estimação de modelos econométricos espaciais, como SAR, SEM, SDM, SDEM, SAC e SLX. Em breve iremos incluir a estimação de painéis de dados espaciais."
-  website: shiny.icict.fiocruz.br/tobler
+  website: https://shiny.icict.fiocruz.br/tobler
   
   
