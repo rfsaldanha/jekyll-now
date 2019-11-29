@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Crescimento do emprego industrial local no Brasil: o grau de especialização por intensidade tecnológica importa?
+title: Crescimento do emprego industrial local no Brasil
 categories: [artigo]
 tags: [econometria]
 comments: true
