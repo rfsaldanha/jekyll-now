@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Novo artigo! Crescimento do emprego industrial local no Brasil
+title: Crescimento do emprego industrial local no Brasil
 categories: [artigo]
 tags: [econometria]
 comments: true
