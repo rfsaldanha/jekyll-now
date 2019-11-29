@@ -32,10 +32,6 @@
   descr: "Pacote R para download e pré-processamento de microdados do DataSUS. O pacote permite o download direto para o R de dados de diversos Sistemas de Informação de Saúde do DataSUS, criando um data.frame pronto para uso. Além do download, o pacote tem algumas funções para pré-processamento dos dados, rotulando os campos categóricos e acrescentando informações sobre os municípios."
   website: https://github.com/rfsaldanha/microdatasus
   
-- name: microdatasus
-  descr: "Pacote R para download e pré-processamento de microdados do DataSUS. O pacote permite o download direto para o R de dados de diversos Sistemas de Informação de Saúde do DataSUS, criando um data.frame pronto para uso. Além do download, o pacote tem algumas funções para pré-processamento dos dados, rotulando os campos categóricos e acrescentando informações sobre os municípios."
-  website: https://github.com/rfsaldanha/microdatasus
-  
 - name: tobler
   descr: "Aplicativo web para econometria espacial, desenvolvido em parceria com a Universidade Federal de Juiz de Fora. Criado em R Shiny, o aplicativo permite o upload de dados ecometricos espaciais para Análise Exploratória de Dados Espacial (AEDE), cálculo de autocorrelações espaciais (Moran's I, Geary's C entre outros) e a estimação de modelos econométricos espaciais, como SAR, SEM, SDM, SDEM, SAC e SLX. Em breve iremos incluir a estimação de painéis de dados espaciais."
   website: https://shiny.icict.fiocruz.br/tobler
